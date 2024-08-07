@@ -1,6 +1,6 @@
 .image img
 {
-   width:80%;
+   width:80.8%;
    padding-left: 7%;
   
    
@@ -11,7 +11,7 @@
 
 .button button{
     font-size: large;
-    width: 39.6vw;
+    width: 20.18%;
     height: 7vh;
     background-image:linear-gradient(to right,orange ,yellow ,green);
     color: white;
@@ -35,13 +35,13 @@
 .button {
     
 
-    width: 50%;
+    width: 200%;
     height: auto; /* Adjust as needed */
     padding-bottom: 10%;
     color: white;
     margin: 0; /* Ensure no additional margins */
-    padding-left: 28.5%;
-    margin-top: -1%; /* Adjust to bring the button closer to the image */
+    padding-left: 28.55%;
+    margin-top: -0.48%; /* Adjust to bring the button closer to the image */
 }
 
 body{
